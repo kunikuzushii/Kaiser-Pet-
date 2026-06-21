@@ -56,10 +56,17 @@ Render images (in the zine):
 PCB:
 
 
-<img width="1079" height="600" alt="image" src="https://github.com/user-attachments/assets/0fa80ed7-d802-41d8-9884-88f5ad7d7758" />
+<img width="855" height="850" alt="image" src="https://github.com/user-attachments/assets/addebd3e-f9e8-495b-a79a-17b5af4984fc" />
 
 
-<img width="680" height="626" alt="image" src="https://github.com/user-attachments/assets/e64ada63-016c-4e84-9d64-2ef97c3b0cb2" />
+<img width="1229" height="763" alt="image" src="https://github.com/user-attachments/assets/aed860b9-5d15-4c81-8f0c-69083dd2585f" />
+
+
+Sneak peak of my pixel art!:
+
+<img width="969" height="790" alt="image" src="https://github.com/user-attachments/assets/dca456a5-abc3-48f4-8869-5642c6115d39" />
+
+
 
 ______
 # Bill of Materials
