@@ -4,21 +4,19 @@
 
 #include "kaiser_sprites.h"
 
-// Buttons are active-low: INPUT_PULLUP reads LOW when pressed.
+// Buttons are active-low INPUT_PULLUP reads LOW when pressed.
 #define BTN_LEFT   2   // SW1 -> GPIO2 / D0
 #define BTN_MIDDLE 3   // SW2 -> GPIO3 / D1
 #define BTN_RIGHT  4   // SW3 -> GPIO4 / D2
 
-// Digital light detector input. Replace -1 with the GPIO you add in KiCad.
-// If your detector outputs HIGH in darkness, change LIGHT_DARK_STATE to HIGH.
+  // Digital light detector input. Replace -1 SOON W THE PIN IN KICAD
+// change LIGHT_DARK_STATE to HIGH if theres issues physically
 #define LIGHT_PIN -1
 #define LIGHT_DARK_STATE LOW
 
-// TODO: assign a real buzzer GPIO after fixing the schematic.
-// In the screenshot, the buzzer appears tied to RES/GPIO20, which is also TFT_RST.
 #define BUZZER_PIN -1
 
-// ST7735 SPI display, 160 x 128 landscape.
+// ST7735 SPI display 160 x 128 landscape
 #define TFT_CS   21 // LCD CS1
 #define TFT_RST  20 // LCD RES
 #define TFT_DC   10 // LCD DC
