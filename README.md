@@ -6,7 +6,7 @@ created by Youna Son (≧∇≦)ﾉ
 
 _________
 
-<img width="510" height="679" alt="image" src="https://github.com/user-attachments/assets/3fb4b004-0d15-421c-87e3-9d60c03e9f1e" />
+<img width="477" height="646" alt="image" src="https://github.com/user-attachments/assets/101170bf-15f9-4b65-97ee-135e2d80da55" />
 
 
 # What is a Kaiser Pet? 
