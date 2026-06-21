@@ -118,6 +118,13 @@ Congrats! I hope someone can actually enjoy this and build it for themselves!
 - KiCAD (all hardware / PCB stuff)
 - Fallout
 
+LIBRARIES CREDITS
+## Dependencies
+This project requires the following Arduino libraries to be installed via the Library Manager:
+* **Adafruit GFX Library** (by Adafruit)
+* **Adafruit ST7735 and ST7789 Library** (by Adafruit)
+* **SPI** (Built-in to Arduino IDE)
+
 # PIXEL ART AND ZINE CREDITS
 REFERENCES AND INSPIRATION (Pinterest!) :
 
