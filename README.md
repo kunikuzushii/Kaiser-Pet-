@@ -14,7 +14,7 @@ _________
 My custom themed tamagotchi has:
 - RBG Screen
 - Higher quality pixel art
-- Photoresister (light sensir)
+- Photoresister (light sensor)
 
 and most importantly... ITS FREAKING MICHAEL KAISER!!!
 
