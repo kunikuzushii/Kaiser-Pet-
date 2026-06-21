@@ -59,6 +59,7 @@ PCB:
 <img width="1079" height="600" alt="image" src="https://github.com/user-attachments/assets/0fa80ed7-d802-41d8-9884-88f5ad7d7758" />
 
 
+<img width="680" height="626" alt="image" src="https://github.com/user-attachments/assets/e64ada63-016c-4e84-9d64-2ef97c3b0cb2" />
 
 ______
 # Bill of Materials
