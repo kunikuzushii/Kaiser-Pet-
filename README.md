@@ -130,6 +130,7 @@ REFERENCES AND INSPIRATION (Pinterest!) :
 - https://share.google/kxDoDrVdniUi0Naia
 - https://pin.it/6CnxexgHx
 
+and obviously, kudos to Muneyuki Kaneshiro for making my favorite character and Yusuke Nomura for bringing him to life by drawing him.
 
 
 
