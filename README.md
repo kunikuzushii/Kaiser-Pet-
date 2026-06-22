@@ -6,7 +6,7 @@ created by Youna Son (≧∇≦)ﾉ
 
 _________
 
-<img width="477" height="646" alt="image" src="https://github.com/user-attachments/assets/101170bf-15f9-4b65-97ee-135e2d80da55" />
+<img width="475" height="643" alt="image" src="https://github.com/user-attachments/assets/bdf3d62d-2b24-4d97-8334-f2dc477e2e66" />
 
 
 # What is a Kaiser Pet? 
@@ -49,10 +49,11 @@ CAD image:
 
 Render images (in the zine):
 
-<img width="1142" height="1086" alt="image" src="https://github.com/user-attachments/assets/c6db2a83-76a5-4e23-b414-5b2028e46c5f" />
+<img width="965" height="748" alt="image" src="https://github.com/user-attachments/assets/92efe58f-6e68-4dcb-bd04-ef5e786fa74f" />
 
 
-<img width="1314" height="938" alt="image" src="https://github.com/user-attachments/assets/ebc8d35b-e591-47a2-afcd-a8af6e7fbba6" />
+<img width="703" height="688" alt="image" src="https://github.com/user-attachments/assets/40098ae4-beac-4bf2-8e6f-db90b78073a6" />
+
 
 
 PCB:
