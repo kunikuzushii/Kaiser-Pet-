@@ -19,6 +19,7 @@ My custom themed tamagotchi has:
 and most importantly... ITS FREAKING MICHAEL KAISER!!!
 
 You take care of Kaiser from Blue Lock (animanga) like a standard tamagotchi. For example, you monitor their health, energy, and hunger levels and take care of them accordingly.
+
 Hunger bar too low? 
 Feed them!
 
@@ -42,7 +43,8 @@ Additionally, I really do want to use this regularly in my life, I love this cha
 # Pictures (☆▽☆)
 
 CAD image:
-<img width="592" height="653" alt="image" src="https://github.com/user-attachments/assets/dc9bcc0d-1065-43e7-9507-fc92e4e414a1" />
+<img width="618" height="654" alt="image" src="https://github.com/user-attachments/assets/abb18b34-bacf-405d-a8ad-1a965317a240" />
+
 
 
 Render images (in the zine):
