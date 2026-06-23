@@ -2,7 +2,7 @@
 tamagotchi project for fallout summer 2026
 created by Youna Son (≧∇≦)ﾉ
 
-[ONSHAPE LINK](https://cad.onshape.com/documents/d6c669abeeb3d7413e8d21f8/w/bde522f027b95c0c69872acb/e/c43f71f52c280984713279bd?renderMode=0&uiState=6a3745600b13741097a9fee4)
+[ONSHAPE LINK](https://cad.onshape.com/documents/d6c669abeeb3d7413e8d21f8/w/bde522f027b95c0c69872acb/e/c43f71f52c280984713279bd?renderMode=0&uiState=6a39dfafa89018379642990a)
 
 _________
 
