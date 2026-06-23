@@ -74,25 +74,30 @@ Sneak peek of my pixel art!:
 
 
 ______
-Name,Qty,Unit,Price (USD),Total (USD),MOQ,MOQ Price,Source
-Seeed Studio XIAO ESP32 C3,1,pcs,8.49,8.49,1,8.49,https://www.aliexpress.us/item/3256808047100037.html
-1.77 inch TFT LCD 128x160 (HS180S10B),1,pcs,3.16,3.16,1,3.16,https://www.lcsc.com/product-detail/C5329585.html
-Piezo Buzzer (1207-P6.5mm),1,pcs,0.50,0.50,10,5.02,https://www.aliexpress.us/item/3256810135642750.html
-Tactile Buttons,3,pcs,0.23,0.69,10,2.25,https://www.aliexpress.us/item/3256807067168626.html
-Photoresistor / LDR (LDR03),1,pcs,0.10,0.10,10,1.00,https://www.aliexpress.com
-10k Ohm Resistor (R1),1,pcs,0.02,0.02,50,1.00,https://www.lcsc.com
-Battery (BT1),1,pcs,5.16,5.16,1,5.16,https://www.aliexpress.us/item/3256808658204287.html
-Battery Holder / Clip,1,pcs,0.30,0.30,5,1.50,https://www.aliexpress.com
-2.54mm Pin Headers,1,pack,1.50,1.50,1,1.50,https://www.lcsc.com
-M3 5mm Screws,5,pcs,0.04,0.20,50,1.92,https://www.aliexpress.us/item/2251832785290389.html
-M3 10mm Screws,3,pcs,0.05,0.15,50,2.34,https://www.aliexpress.us/item/2251832785290389.html
-M3 Threaded Standoffs,4,pcs,0.12,0.48,10,1.20,https://www.aliexpress.com
-Custom PCB,1,pcs,0.40,0.40,5,2.00,https://jlcpcb.com
-PLA 3D Printed Case,1,pcs,-,-,-,-,Self-Print / Local
-Total,25,-,-,21.15,-,36.54,-
+## Bill of Materials
 
+**Total Cost: $30.03**
 
+| Name | Qty | Unit | Price (USD) | Total (USD) | MOQ | MOQ Price | Source |
+| :--- | :---: | :---: | ---: | ---: | :---: | ---: | :--- |
+| XIAO ESP32C3 | 1 | pcs | $4.99 | $4.99 | 1 | $4.99 | [Order](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
+| XHXDZ 1207-P6.5MM Buzzer | 1 | pcs | $0.50 | $5.03 | 10 | $5.03 | [Order](https://www.aliexpress.us/item/3256810135642750.html) |
+| HS180S10B Screen | 1 | pcs | $3.21 | $3.21 | 1 | $3.21 | [Order](https://www.lcsc.com/product-detail/C5329585.html) |
+| RC0805FR-0710KL Resistor | 1 | pcs | $0.10 | $0.10 | 1 | $0.10 | [Order](https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KL/727535) |
+| GL12528 LDR | 1 | pcs | $0.31 | $1.56 | 5 | $1.56 | [Order](https://www.lcsc.com/product-detail/C559386.html) |
+| M20-9990246 Connector | 1 | pcs | $0.10 | $0.10 | 1 | $0.10 | [Order](https://www.digikey.com/en/products/detail/harwin-inc/M20-9990246/3728226) |
+| TSC016A04518A Tactile Switch | 3 | pcs | $0.01 | $0.54 | 50 | $0.54 | [Order](https://www.lcsc.com/product-detail/C2888493.html) |
+| Battery | 1 | pcs | $6.20 | $6.20 | 1 | $6.20 | [Order](https://www.aliexpress.us/item/3256808658204287.html) |
+| PCB | 1 | pcs | $0.40 | $2.00 | 5 | $2.00 | [Order](https://jlcpcb.com) |
+| PLA Housing | 1 | pcs | - | - | - | - | Self-Print / Local |
+| M3 x 10mm Socket Cap Head Screws | 3 | pcs | $0.47 | $1.88 | 4 | $1.88 | [Order](https://accu-components.com/us/metric-cap-head-screws/16004-SSCF-M3-10-12-9) |
+| M3 x 5mm Socket Cap Head Screws | 5 | pcs | $0.31 | $1.86 | 6 | $1.86 | [Order](https://accu-components.com/us/metric-cap-head-screws/16001-SSCF-M3-5-12-9) |
+| TS-107-T-AA Connector | 2 | pcs | $1.28 | $2.56 | 1 | $1.28 | [Order](https://www.digikey.com/en/products/detail/samtec-inc/TS-107-T-AA/10218878) |
+
+Total Cost (USD) is the REAL price required before shipping fees
 ____
+
+
 # BUILD & ASSEMBLY
 ___
 # Required Tools
